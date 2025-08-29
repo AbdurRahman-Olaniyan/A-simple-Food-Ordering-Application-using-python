@@ -17,7 +17,6 @@ It’s designed for a food vendor who sells **Pizza**, **Burger**, and **Noodles
 2. Burger - ₦3000
 3. Noodles - ₦1300
 4. Exit & Checkout
-5. 
 ---
 
 ##  How it works
