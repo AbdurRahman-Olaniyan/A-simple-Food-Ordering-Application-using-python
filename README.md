@@ -49,6 +49,5 @@ Your cart is empty. No items to check out.
    jupyter notebook food_ordering_app.ipynb
    ```
 3. Run the cells in order (Shift + Enter).
-4. Follow the prompts in the terminal/console output.
 
 ---
